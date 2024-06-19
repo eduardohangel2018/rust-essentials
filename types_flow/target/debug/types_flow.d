@@ -1,0 +1,1 @@
+/home/erangel/Documents/Projects/rust-essentials/types_flow/target/debug/types_flow: /home/erangel/Documents/Projects/rust-essentials/types_flow/src/flow.rs /home/erangel/Documents/Projects/rust-essentials/types_flow/src/main.rs
